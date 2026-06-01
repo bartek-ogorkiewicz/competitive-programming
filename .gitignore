@@ -1,0 +1,7 @@
+# skompilowane binarki (output bez rozszerzenia)
+*
+!*.cpp
+!*.txt
+!.gitignore
+!.vscode/
+!.vscode/*
