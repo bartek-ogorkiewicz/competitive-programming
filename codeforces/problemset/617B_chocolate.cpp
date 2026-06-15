@@ -1,3 +1,5 @@
+// https://codeforces.com/problemset/problem/617/B
+// Chocolate
 #include <bits/stdc++.h>
 using namespace std;
 
