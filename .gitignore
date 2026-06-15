@@ -1,7 +1,8 @@
-# skompilowane binarki (output bez rozszerzenia)
-*
-!*.cpp
-!*.txt
-!.gitignore
-!.vscode/
-!.vscode/*
+a.out
+*.exe
+*.o
+in.txt
+out.txt
+.vscode/
+
+.DS_Store
