@@ -10,7 +10,7 @@ void solve() {
     int n;
     string top, bot;
     cin >> n >> top >> bot;
-    vector<int> dp(n + 1, INT_MAX);
+    vector<int> dp(n + 1);
     dp[0] = 0;
 
     for (int i = 1; i <=n; i++) {
