@@ -8,6 +8,7 @@ using ll = long long;
 
 void solve() {
 
+    return;
 }
 
 int main() {

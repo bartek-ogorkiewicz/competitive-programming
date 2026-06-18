@@ -1,5 +1,5 @@
-//
-//
+// https://cses.fi/problemset/task/1754
+// Coin Piles
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -11,7 +11,9 @@ void NO()  { cout << "NO" << "\n"; }
 void answer(bool b) { b ? YES() : NO(); }
 
 void solve() {
-
+    int a, b;
+    cin >> a >> b;
+    answer((a + b) % 3 == 0 && 2 * a >= b && 2 * b >= a);
     return;
 }
 
