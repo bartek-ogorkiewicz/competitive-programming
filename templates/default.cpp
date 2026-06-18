@@ -12,7 +12,6 @@ void answer(bool b) { b ? YES() : NO(); }
 
 void solve() {
 
-    return;
 }
 
 int main() {
