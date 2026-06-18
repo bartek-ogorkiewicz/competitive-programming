@@ -6,7 +6,16 @@ Solutions to competitive programming problems.
 
 - `codeforces/contests/` - contest solutions (one folder per contest)
 - `codeforces/problemset/` - individual practice problems (`<id><letter>_<slug>.cpp`)
-- `template.cpp` - starting template (fast I/O, multi-testcase loop)
+- `atcoder/contests/` - contest solutions (one folder per contest)
+- `atcoder/problemset/` - individual practice problems
+- `cses/` - CSES Problem Set solutions, organized by category as on the site
+- `templates/` - starting templates (`default.cpp` for general use, `cses.cpp` for CSES)
+
+## Links
+
+- [Codeforces](https://codeforces.com/)
+- [AtCoder](https://atcoder.jp/)
+- [CSES Problem Set](https://cses.fi/problemset/)
 
 ## Compiling
 
