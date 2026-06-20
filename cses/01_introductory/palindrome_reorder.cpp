@@ -21,7 +21,7 @@ void solve() {
             oddCount++;
         }
     }
-    if(oddCount > 1){
+    if(oddCount > 1) {
         cout << "NO SOLUTION\n";
         return;
     }
