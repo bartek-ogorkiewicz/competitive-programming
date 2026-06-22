@@ -22,7 +22,6 @@ void solve() {
         if (i < j && (a[i] + a[j]) <= x) {
             i++;
             j--;
-
         }
         else {
             j--;
